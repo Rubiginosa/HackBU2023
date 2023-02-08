@@ -19,3 +19,7 @@ Currently quite slow. For better performance use a small window size.
 
 ## Build:
 Everything is contained in Program.cs. Compile and run with `dotnet` (works better when compiled to an executable first, then run).
+
+## Samples:
+Some models are available here https://people.sc.fsu.edu/~jburkardt/data/stla/stla.html
+One can also convert the more common binary stl format to ASCII for use with this program.
